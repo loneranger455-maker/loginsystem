@@ -1,0 +1,4 @@
+It is a small login program made from python3
+Make sure you have the lastest version of python3 in your machine and also tkinter module
+tkinter is pre installed with python interpreter in Mac and windows.Linux user :apt-get install python-tk
+run this with command python3 "location to the installed .py script"
